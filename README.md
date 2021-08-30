@@ -1,3 +1,1 @@
-i only use github for things that need it, like templates or other projects that use it
-
-i don't even use gitlab that much
+Most of my repos are either archives, or demos or software; so don't expect them to be updated much.
